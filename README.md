@@ -1,4 +1,4 @@
-# Chat-Application
+# Chat-Application 
 
 
 The intranet Java chat application is designed for seamless communication within an organization's private network, offering a secure and efficient platform for employees to interact. Users can send various types of messages including text, files, images, sound clips, and emojis, making communication rich and dynamic.
